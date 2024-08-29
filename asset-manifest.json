@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/task7/static/css/main.6986832f.css",
+    "main.js": "/task7/static/js/main.6de8f3f6.js",
+    "static/media/fa-solid-900.ttf": "/task7/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/2023_ProductPage_Header_Busa_25thAnn_2500x1227.jpg": "/task7/static/media/2023_ProductPage_Header_Busa_25thAnn_2500x1227.f0c6968808cd11437340.jpg",
+    "static/media/fa-brands-400.ttf": "/task7/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/task7/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/task7/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/suz-2023_busa_actionphotos_5_2560x1400.jpg": "/task7/static/media/suz-2023_busa_actionphotos_5_2560x1400.bed04b9aa6747bb77560.jpg",
+    "static/media/fa-regular-400.ttf": "/task7/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/task7/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/logo.png": "/task7/static/media/logo.19fb4de7b90d44d29daf.png",
+    "static/media/Motorsportitran-icon.webp": "/task7/static/media/Motorsportitran-icon.07049e10310a8a59914e.webp",
+    "static/media/fa-v4compatibility.ttf": "/task7/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/task7/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "static/media/F1Iran-logo.webp": "/task7/static/media/F1Iran-logo.8341f4756e9e71bbe939.webp",
+    "index.html": "/task7/index.html",
+    "main.6986832f.css.map": "/task7/static/css/main.6986832f.css.map",
+    "main.6de8f3f6.js.map": "/task7/static/js/main.6de8f3f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6986832f.css",
+    "static/js/main.6de8f3f6.js"
+  ]
+}
