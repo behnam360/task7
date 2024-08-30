@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/task7/static/css/main.6986832f.css",
-    "main.js": "/task7/static/js/main.6de8f3f6.js",
+    "main.js": "/task7/static/js/main.f079d64f.js",
     "static/media/fa-solid-900.ttf": "/task7/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
     "static/media/2023_ProductPage_Header_Busa_25thAnn_2500x1227.jpg": "/task7/static/media/2023_ProductPage_Header_Busa_25thAnn_2500x1227.f0c6968808cd11437340.jpg",
     "static/media/fa-brands-400.ttf": "/task7/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
@@ -17,10 +17,10 @@
     "static/media/F1Iran-logo.webp": "/task7/static/media/F1Iran-logo.8341f4756e9e71bbe939.webp",
     "index.html": "/task7/index.html",
     "main.6986832f.css.map": "/task7/static/css/main.6986832f.css.map",
-    "main.6de8f3f6.js.map": "/task7/static/js/main.6de8f3f6.js.map"
+    "main.f079d64f.js.map": "/task7/static/js/main.f079d64f.js.map"
   },
   "entrypoints": [
     "static/css/main.6986832f.css",
-    "static/js/main.6de8f3f6.js"
+    "static/js/main.f079d64f.js"
   ]
 }
